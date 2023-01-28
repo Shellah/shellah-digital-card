@@ -1,0 +1,34 @@
+body {
+background-color: #7d6891;
+color: white;
+text-align: center;
+}
+
+h1 {
+font-size: large;
+}
+p {
+    font-size: small;
+}
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.profile-img {
+    width: 50%;
+    border-radius: 50%;
+}
+.btn {
+    display:block ;
+    color: black;
+    padding: 20px;
+    background-color: white;
+    margin: 16px;
+    box-shadow: 10px 10px lightblue;
+
+}
+.social-icon {
+    margin: 10px;
+}
